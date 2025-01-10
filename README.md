@@ -5,7 +5,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 한국외국어대학교 컴퓨터전자시스템공학부 졸업</li></li><li> 기업 애드업에서 현장실습 인턴 (2021.03 ~ 2021.06)</li></li><li> 프로그래머스  데브코스: Cloud-Based Backend Engineering  (2024.07~) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 한국외국어대학교 컴퓨터전자시스템공학부 졸업</li></li><li> 기업 애드업에서 현장실습 인턴 (2021.03 ~ 2021.06)</li></li><li> 프로그래머스  데브코스: Cloud-Based Backend Engineering  (2024.07 ~ 2024.12) </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
