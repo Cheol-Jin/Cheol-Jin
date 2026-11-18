@@ -5,7 +5,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 한국외국어대학교 컴퓨터전자시스템공학부 졸업</li></li><li> 기업 애드업에서 현장실습 인턴 (2021.03 ~ 2021.06)</li></li><li> 프로그래머스  데브코스: Cloud-Based Backend Engineering  (2024.07 ~ 2024.12)</li></li><li> 삼표산업 IT실 근무 (2025.05 ~ 2026.01 ) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 한국외국어대학교 컴퓨터전자시스템공학부 졸업</li></li><li> 기업 애드업에서 현장실습 인턴 (2021.03 ~ 2021.06)</li></li><li> 프로그래머스  데브코스: Cloud-Based Backend Engineering  (2024.07 ~ 2024.12)</li></li><li> 삼표산업 IT실 근무 (2025.05 ~ 2026.01 )
+    <li>개인 프로젝트 LoaTask 개발 중 (Vue.js · Spring Boot 기반 로스트아크 관련 웹 서비스)</li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
