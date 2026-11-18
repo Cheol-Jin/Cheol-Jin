@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![MyBatis](https://img.shields.io/badge/MyBatis-CC0000?style=for-the-badge)
 
 **프론트엔드**
